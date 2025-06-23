@@ -1,9 +1,9 @@
-# 👋 ¡Hola! Soy Juan Felipe Martínez Orrego
+# 👋 ¡Hola! Soy Juan Felipe Martínez
 
 🎓 Estudiante de último semestre de Ingeniería Eléctrica  
 📍 Dosquebradas, Colombia  
 📧 j.felipem68@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ju...)  
+🔗 [LinkedIn](linkedin.com/in/juan-felipe-martínez-016696331)  
 
 ---
 
