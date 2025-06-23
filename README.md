@@ -1,5 +1,7 @@
 # 👋 ¡Hola! Soy Juan Felipe Martínez
 
+<img src="banner.png" alt="Banner de Juan Felipe Martínez" width="100%" />
+
 🎓 Estudiante de último semestre de Ingeniería Eléctrica  
 📍 Dosquebradas, Colombia  
 📧 j.felipem68@gmail.com  
