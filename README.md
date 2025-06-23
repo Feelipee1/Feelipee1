@@ -95,10 +95,15 @@ Incluye:
 ## 🚀 ¿Qué sigue?
 
 Estoy abierto a oportunidades de práctica, colaboración o investigación en áreas relacionadas con:
+
 - Redes eléctricas inteligentes
-- Despacho óptimo de energía
-- Modelado y simulación
-- Control automático y aprendizaje de máquina
+- Programación intensiva en Python (estructuras, automatización, algoritmos) 
+- Análisis y procesamiento de datos complejos  
+- Despacho óptimo de energía  
+- Modelado y simulación de sistemas  
+- Inteligencia artificial aplicada a ingeniería y toma de decisiones  
+- Control automático y aprendizaje de máquina  
+- Optimización matemática (lineal, entera, convexa) aplicada a sistemas reales.
 
 ---
 
