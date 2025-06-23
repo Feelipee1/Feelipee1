@@ -71,10 +71,19 @@ Me destaco por integrar mis conocimientos en **programación**, **modelos matem�
 
 ---
 
-## ⚡ Proyectos en GitHub (en construcción)
+## ⚡ Proyectos en GitHub 
 
-> Aquí irán tus repositorios, por ejemplo: simulaciones en PowerFactory, modelos de control, despachos económicos, scripts en Python para optimización, etc.
+### 📌 [Challenge_ASOCIO25](https://github.com/Feelipee1/Challenge_ASOCIO25)
 
+Repositorio en desarrollo que resuelve la asignación óptima de escritorios en modalidad híbrida, considerando restricciones por grupo, disponibilidad de días y preferencias de ubicación.  
+Incluye:
+- Lectura de datos desde archivos `.json` y `.xlsx`
+- Definición de modelo matemático en Python (con CVXPY)
+- Solución usando los solvers Gurobi y MOSEK
+- Estructura modular y preparada para escalabilidad
+
+> 🔧 Tecnologías: Python, Gurobi, Mosek, Pandas, CVXPY
+> 
 ---
 
 ## 💡 Hobbies
