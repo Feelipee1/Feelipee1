@@ -82,8 +82,7 @@ Incluye:
 - Solución usando los solvers Gurobi y MOSEK
 - Estructura modular y preparada para escalabilidad
 
-> 🔧 Tecnologías: Python, Gurobi, Mosek, Pandas, CVXPY
-> 
+🔧 Tecnologías: Python, Gurobi, Mosek, json, Pyomo.
 ---
 
 ## 💡 Hobbies
