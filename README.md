@@ -87,7 +87,7 @@ Incluye:
 
 ## 💡 Hobbies
 
-🏋️ Gimnasio  🏃 Running  ♟️ Ajedrez
+🏋️ Gimnasio  🏃 Running  ♟️ Ajedrez 📚 Lectura
 
 ---
 
