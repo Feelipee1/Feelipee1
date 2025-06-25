@@ -5,7 +5,7 @@
 🎓 Estudiante de último semestre de Ingeniería Eléctrica  
 📍 Dosquebradas, Colombia  
 📧 j.felipem68@gmail.com  
-🔗 [LinkedIn](linkedin.com/in/juan-felipe-martínez-016696331)  
+🔗 [LinkedIn]([linkedin.com/in/juan-felipe-martínez-016696331](https://www.linkedin.com/in/juan-felipe-martínez-016696331/))  
 
 ---
 
